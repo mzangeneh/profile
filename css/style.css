@@ -10,7 +10,7 @@ html {
 body{
   margin: 0px;
   padding: 0px;
-  background-color: #212121;
+  background-color: #50c2dd;
 }
 
 .profile{
@@ -41,7 +41,6 @@ body{
     /* Box Style Front*/
     background-color: #fff;
     width: 260px;
-    height: 350px;
     border-radius: 10px;
     box-shadow: 0px 2px 5px rgba(0,0,0,0.4);
 }
@@ -92,7 +91,7 @@ body{
   width: 100%;
   height: auto;
   padding: 60px 0px;
-  background-color: #ddd;
+  background-color: #007eff;
   border-radius: 10px 10px 0px 0px;
   margin-bottom: -50px;
   background-image: url(https://images.unsplash.com/photo-1436464224124-bbac0b4e3d50?dpr=1&auto=format&fit=crop&w=1500&h=999&q=80&cs=tinysrgb&crop=);
