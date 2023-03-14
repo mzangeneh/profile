@@ -2,14 +2,15 @@ html {
   color: #444;
 	box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
-}
-*, *:before, *:after { 
-	box-sizing: inherit; 
 	background: url(/img/back.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+*, *:before, *:after { 
+	box-sizing: inherit; 
+	
 }
 
 body{
